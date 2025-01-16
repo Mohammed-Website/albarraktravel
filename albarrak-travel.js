@@ -57,16 +57,14 @@ window.addEventListener('scroll', () => {
 document.addEventListener("DOMContentLoaded", function () {
     const words = [
         "رحلات سياحية",
-        "لندن",
         "تايلاند",
-        "تركيا",
-        "سيريلانكا",
         "ماليزيا",
+        "اسطنبول",
         "فيتنام",
-        "سنغافورة",
-        "اذربيجان",
-        "اوزباكستان",
+        "موسكو",
+        "اندونيسيا",
         "عروض سياحية",
+        "لجميع الميزانيات",
     ];
 
     let currentIndex = 1;
